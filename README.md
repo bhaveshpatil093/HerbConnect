@@ -1,6 +1,6 @@
 # 🌿 HerbConnect
 
-![HerbConnect Banner](https://user-images.githubusercontent.com/your-image-placeholder/banner.jpg) <!-- Optional banner -->
+![HerbConnect Banner](public/OOGcJliCZGqgGQkEwKCNe.jpg) <!-- Optional banner -->
 
 > 🌱 *A cross-platform marketplace connecting wellness seekers with natural product vendors for a healthier, sustainable future.* 🌍
 
