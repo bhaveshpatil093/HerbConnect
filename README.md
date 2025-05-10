@@ -1,7 +1,3 @@
-Here’s a detailed and visually attractive `README.md` file for your **HerbConnect** project, incorporating emojis, sections, badges, and clear formatting:
-
----
-
 # 🌿 HerbConnect
 
 ![HerbConnect Banner](https://user-images.githubusercontent.com/your-image-placeholder/banner.jpg) <!-- Optional banner -->
